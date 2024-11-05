@@ -9,8 +9,6 @@ We are Exoclimatology Theory Group (ETG), a collaboration between planet climate
 - Max Planck Institute for Astronomy
 - University of Bern
 
-Watch this space...
-
 <!--
 
 **Here are some ideas to get you started:**
