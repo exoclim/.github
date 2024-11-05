@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-We are Exeter Exoplanet Theory Group (EETG) at the University of Exeter.
+We are Exoclimatology Theory Group (ETG), a collaboration between planet climate scientists based primarily at
+- University of Exeter
+- University of Bristol
+- Met Office
+- University of London
+- Open University
+- Max Planck Institute for Astronomy
+- University of Bern
 
 Watch this space...
 
