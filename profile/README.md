@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Exoclimatology Theory Group (ETG), a collaboration between planet climate scientists based primarily at
+We are Exoclimatology Theory Group (ETG), a research collaboration between
 - University of Exeter
 - University of Bristol
 - Met Office
@@ -8,6 +8,7 @@ We are Exoclimatology Theory Group (ETG), a collaboration between planet climate
 - Open University
 - Max Planck Institute for Astronomy
 - University of Bern
+- University of Oxford
 
 <!--
 
